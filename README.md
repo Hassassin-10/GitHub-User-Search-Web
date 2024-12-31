@@ -1,2 +1,2 @@
 # GitHub-User-Search-Web
-still in dev Phase
+Still in dev Phase
